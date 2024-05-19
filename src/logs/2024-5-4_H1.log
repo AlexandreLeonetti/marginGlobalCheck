@@ -1,0 +1,150 @@
+
+
+ ***** Sat May 04 2024 21:44:57 GMT+0200 (Central European Summer Time) *****  
+quantity 0.005Symbol : BTCTUSD, quantity : 0.005 
+isoBuy and Borrow. 
+{
+  "symbol": "BTCTUSD",
+  "orderId": 3697058794,
+  "clientOrderId": "cjlrdz3QuvD9etLmICJiGy",
+  "transactTime": 1714851898331,
+  "price": "0",
+  "origQty": "0.005",
+  "executedQty": "0.005",
+  "cummulativeQuoteQty": "318.4962366",
+  "status": "FILLED",
+  "timeInForce": "GTC",
+  "type": "MARKET",
+  "side": "BUY",
+  "fills": [
+    {
+      "price": "63687.12",
+      "qty": "0.00038",
+      "commission": "0.00000038",
+      "commissionAsset": "BTC",
+      "tradeId": 391443465
+    },
+    {
+      "price": "63687.12",
+      "qty": "0.00039",
+      "commission": "0.00000039",
+      "commissionAsset": "BTC",
+      "tradeId": 391443466
+    },
+    {
+      "price": "63695.4",
+      "qty": "0.00047",
+      "commission": "0.00000047",
+      "commissionAsset": "BTC",
+      "tradeId": 391443467
+    },
+    {
+      "price": "63695.65",
+      "qty": "0.00013",
+      "commission": "0.00000013",
+      "commissionAsset": "BTC",
+      "tradeId": 391443468
+    },
+    {
+      "price": "63696.34",
+      "qty": "0.0001",
+      "commission": "0.0000001",
+      "commissionAsset": "BTC",
+      "tradeId": 391443469
+    },
+    {
+      "price": "63697.59",
+      "qty": "0.00018",
+      "commission": "0.00000018",
+      "commissionAsset": "BTC",
+      "tradeId": 391443470
+    },
+    {
+      "price": "63702.89",
+      "qty": "0.00335",
+      "commission": "0.00000335",
+      "commissionAsset": "BTC",
+      "tradeId": 391443471
+    }
+  ],
+  "isIsolated": true,
+  "selfTradePreventionMode": "EXPIRE_MAKER"
+}
+{
+  "symbol": "BTCTUSD",
+  "orderId": 3697058794,
+  "clientOrderId": "cjlrdz3QuvD9etLmICJiGy",
+  "transactTime": 1714851898331,
+  "price": "0",
+  "origQty": "0.005",
+  "executedQty": "0.005",
+  "cummulativeQuoteQty": "318.4962366",
+  "status": "FILLED",
+  "timeInForce": "GTC",
+  "type": "MARKET",
+  "side": "BUY",
+  "fills": [
+    {
+      "price": "63687.12",
+      "qty": "0.00038",
+      "commission": "0.00000038",
+      "commissionAsset": "BTC",
+      "tradeId": 391443465
+    },
+    {
+      "price": "63687.12",
+      "qty": "0.00039",
+      "commission": "0.00000039",
+      "commissionAsset": "BTC",
+      "tradeId": 391443466
+    },
+    {
+      "price": "63695.4",
+      "qty": "0.00047",
+      "commission": "0.00000047",
+      "commissionAsset": "BTC",
+      "tradeId": 391443467
+    },
+    {
+      "price": "63695.65",
+      "qty": "0.00013",
+      "commission": "0.00000013",
+      "commissionAsset": "BTC",
+      "tradeId": 391443468
+    },
+    {
+      "price": "63696.34",
+      "qty": "0.0001",
+      "commission": "0.0000001",
+      "commissionAsset": "BTC",
+      "tradeId": 391443469
+    },
+    {
+      "price": "63697.59",
+      "qty": "0.00018",
+      "commission": "0.00000018",
+      "commissionAsset": "BTC",
+      "tradeId": 391443470
+    },
+    {
+      "price": "63702.89",
+      "qty": "0.00335",
+      "commission": "0.00000335",
+      "commissionAsset": "BTC",
+      "tradeId": 391443471
+    }
+  ],
+  "isIsolated": true,
+  "selfTradePreventionMode": "EXPIRE_MAKER"
+}
+symbol BTCTUSD, quantity : 0.00498, stopPrice : 63571.85, limit : 63540 
+placed stop loss
+{
+  "symbol": "BTCTUSD",
+  "orderId": 3697058926,
+  "clientOrderId": "NoFBPv0tmV4kUJn6kof8Cd",
+  "transactTime": 1714851898973,
+  "type": "STOP_LOSS_LIMIT",
+  "side": "SELL",
+  "isIsolated": true
+}

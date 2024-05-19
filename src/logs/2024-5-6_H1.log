@@ -1,0 +1,86 @@
+
+
+ ***** Mon May 06 2024 01:59:57 GMT+0000 (Coordinated Universal Time) *****  
+
+did not pass treshold condition on WIFUSDC, price = 3.2327, treshold = [object Object] 
+
+
+ ***** Mon May 06 2024 03:59:57 GMT+0000 (Coordinated Universal Time) *****  
+
+did not pass treshold condition on WIFUSDC, price = 3.2497, treshold = [object Object] 
+
+
+ ***** Mon May 06 2024 05:59:57 GMT+0000 (Coordinated Universal Time) *****  
+
+did not pass treshold condition on WIFUSDC, price = 3.3223, treshold = [object Object] 
+
+
+ ***** Mon May 06 2024 07:59:57 GMT+0000 (Coordinated Universal Time) *****  
+
+did not pass treshold condition on WIFUSDC, price = 3.3222, treshold = [object Object] 
+
+
+ ***** Mon May 06 2024 09:59:57 GMT+0000 (Coordinated Universal Time) *****  
+quantity 10Symbol : WIFUSDC, quantity : 10 
+isoBuy and Borrow. 
+{
+  "symbol": "WIFUSDC",
+  "orderId": 7983296,
+  "clientOrderId": "iqvPjOdSByPKxRtBqYMiWd",
+  "transactTime": 1714989598732,
+  "price": "0",
+  "origQty": "10",
+  "executedQty": "10",
+  "cummulativeQuoteQty": "36.341",
+  "status": "FILLED",
+  "timeInForce": "GTC",
+  "type": "MARKET",
+  "side": "BUY",
+  "fills": [
+    {
+      "price": "3.6341",
+      "qty": "10",
+      "commission": "0.0095",
+      "commissionAsset": "WIF",
+      "tradeId": 54159
+    }
+  ],
+  "isIsolated": true,
+  "selfTradePreventionMode": "EXPIRE_MAKER"
+}
+{
+  "symbol": "WIFUSDC",
+  "orderId": 7983296,
+  "clientOrderId": "iqvPjOdSByPKxRtBqYMiWd",
+  "transactTime": 1714989598732,
+  "price": "0",
+  "origQty": "10",
+  "executedQty": "10",
+  "cummulativeQuoteQty": "36.341",
+  "status": "FILLED",
+  "timeInForce": "GTC",
+  "type": "MARKET",
+  "side": "BUY",
+  "fills": [
+    {
+      "price": "3.6341",
+      "qty": "10",
+      "commission": "0.0095",
+      "commissionAsset": "WIF",
+      "tradeId": 54159
+    }
+  ],
+  "isIsolated": true,
+  "selfTradePreventionMode": "EXPIRE_MAKER"
+}
+symbol WIFUSDC, quantity : 9.97, stopPrice : 3.6159, limit : 3.6086 
+placed stop loss
+{
+  "symbol": "WIFUSDC",
+  "orderId": 7983299,
+  "clientOrderId": "gduoFijHXi10jcIDqhNS2i",
+  "transactTime": 1714989599367,
+  "type": "STOP_LOSS_LIMIT",
+  "side": "SELL",
+  "isIsolated": true
+}

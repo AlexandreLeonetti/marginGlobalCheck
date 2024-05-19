@@ -1,0 +1,30 @@
+{
+  "name": "clock-trader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --watch \"src/**\" --ext \"ts,json\" --exec \"ts-node src/index.ts\"",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@leonetti/utils": "^0.0.3",
+    "@types/node-cron": "^3.0.11",
+    "dotenv": "^16.4.5",
+    "leonetti-axios-kucoin": "^0.0.9",
+    "node-cron": "^3.0.3",
+    "node-schedule": "^2.1.1",
+    "nodemon": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/node-schedule": "^2.1.6",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.4.3"
+  }
+}
